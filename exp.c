@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2025 arttnba3 <arttnba@gmail.com>
+ *
+ * This work is licensed under the terms of the GNU GPL, version 2 or later.
+**/
+
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
